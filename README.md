@@ -31,7 +31,7 @@ GRPC_tests/
 ## 🔧 **Setup & Installation**
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/your-repo-name.git
+git clone https://github.com/GaryDeco/GRPC_tests
 cd GRPC_tests
 ```
 
